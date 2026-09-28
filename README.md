@@ -1,4 +1,4 @@
-# H&E spectral decomposition and color normalization
+# PNSU: Physics-Guided Nonlinear Spectral Unmixing of Broadband RGB Histopathology Images
 
 This repository contains the MATLAB code needed to run the H&E joint spectral and concentration estimation method used in the paper.
 
